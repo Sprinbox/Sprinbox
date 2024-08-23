@@ -2,14 +2,15 @@
 
 Bienvenue sur mon profil GitHub ! Je suis passionné par la création de projets en tout genre.
 
-🌐 **Portfolio** : [xavierlouis.fr](https://xavierlouis.fr)
+🌐 **Portfolio** : <a href="https://xavierlouis.fr" target="_blank">Visitez mon portfolio</a>
+
 
 ## 📌 Projets en vedette
 
 ### 🎮 Serveurliste
 Une plateforme permettant aux utilisateurs de découvrir et de lister des serveurs pour divers jeux en ligne. Notre but est de faciliter la recherche de serveurs adaptés aux besoins des joueurs.
 
-➡️ [Serveurliste - Voir le projet]((https://www.serveurliste.com/)
+➡️ [Serveurliste - Voir le projet](https://www.serveurliste.com/)
 
 ### ⛏️ Valblock
 Un projet de serveur Minecraft skyblock sur le thême des vikings.
