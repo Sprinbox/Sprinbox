@@ -9,12 +9,12 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par la création de projets
 ### 🎮 Serveurliste
 Une plateforme permettant aux utilisateurs de découvrir et de lister des serveurs pour divers jeux en ligne. Notre but est de faciliter la recherche de serveurs adaptés aux besoins des joueurs.
 
-➡️ [Serveurliste - Voir le projet](https://github.com/ton_nom_utilisateur/serveurliste)
+➡️ [Serveurliste - Voir le projet]((https://www.serveurliste.com/)
 
 ### ⛏️ Valblock
 Un projet de serveur Minecraft skyblock sur le thême des vikings.
 
-➡️ [Valblock - Voir le projet](https://github.com/ton_nom_utilisateur/valblock)
+➡️ [Valblock - Voir le projet](https://www.valblock.fr)
 
 ## 🛠️ Compétences et outils
 
@@ -26,7 +26,7 @@ Je possède des compétences diversifiée dans le domaine du marketing digital, 
 
 ## 📱 Me contacter
 
-- **LinkedIn** : [Xavier Louis](https://www.linkedin.com/in/ton_nom_linkedin)
+- **LinkedIn** : [Xavier Louis](https://www.linkedin.com/in/louis-xavier)
 - **Discord** : sprinbox
 
 Merci de votre visite, n'hésitez pas à me contacter pour discuter de mes projets ou pour toute collaboration potentielle !
