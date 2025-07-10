@@ -1,38 +1,73 @@
-  # Salut, moi c'est Sprinbox 👋
+<!-- Bannière ou image de bienvenue (optionnel si tu veux en rajouter une plus tard) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/0000000/your-banner.png" alt="Bienvenue chez Sprinbox" />
+</p>
 
-Bienvenue sur mon profil GitHub ! Je suis passionné par la création de projets en tout genre.
+# 👋 Salut, moi c'est Sprinbox
 
-🌐 **Portfolio** : <a href="https://xavierlouis.fr" target="_blank">Visitez mon portfolio</a>
+🎯 **Entrepreneur digital** & passionné par les projets créatifs.  
+Bienvenue sur mon GitHub où je centralise mes idées, mes projets concrets et mes expériences dans le web.
 
-### Mon entreprise
-Mon activité de référencement et de marketing digital.
+🌐 **Portfolio** : [xavierlouis.fr](https://xavierlouis.fr)
 
-➡️ [WebXplore - Voir le site](https://www.webxplore.fr/)
+---
 
+## 🗂️ Sommaire
+
+- [🏢 Mon entreprise](#-mon-entreprise)
+- [📌 Projets en vedette](#-projets-en-vedette)
+- [🛠️ Compétences](#️-compétences-et-outils)
+- [📫 Me contacter](#-me-contacter)
+- [🚀 En ce moment](#-en-ce-moment)
+
+---
+
+## 🏢 Mon entreprise
+
+### 🧠 WebXplore  
+Agence de référencement naturel (SEO) et marketing digital.  
+J’aide les entreprises à **gagner en visibilité en ligne** et à **attirer des prospects qualifiés** via des stratégies sur mesure.
+
+➡️ [Voir le site](https://www.webxplore.fr)
+
+---
 
 ## 📌 Projets en vedette
 
-### 🎮 Serveurliste
-Une plateforme permettant aux utilisateurs de découvrir et de lister des serveurs pour divers jeux en ligne. Notre but est de faciliter la recherche de serveurs adaptés aux besoins des joueurs.
+### 🎮 Serveurliste  
+Une plateforme qui aide les joueurs à découvrir des serveurs de jeux (Minecraft, GTA RP, etc.) adaptés à leurs envies.  
+🔗 [serveurliste.com](https://www.serveurliste.com/)
 
-➡️ [Serveurliste - Voir le projet](https://www.serveurliste.com/)
+### ⛏️ Valblock  
+Serveur Minecraft Skyblock inspiré de l’univers viking, avec un gameplay immersif et communautaire.  
+🔗 [valblock.fr](https://www.valblock.fr)
 
-### ⛏️ Valblock
-Un projet de serveur Minecraft skyblock sur le thême des vikings.
-
-➡️ [Valblock - Voir le projet](https://www.valblock.fr)
+---
 
 ## 🛠️ Compétences et outils
 
-Je possède des compétences diversifiée dans le domaine du marketing digital, combinant des compétences en optimisation des moteurs de recherche (SEO), prospection, et la conception de campagnes digitales.
+Je combine mes expériences en marketing digital avec une approche terrain, orientée **résultat** :
 
-- **Search Engine Optimisation (SEO)** : Optimisation de la visibilité en ligne et amélioration du classement sur les moteurs de recherche grâce à des stratégies SEO ciblées.
-- **Marketing digital** : Conception de campagnes digitales engageantes pour renforcer la présence en ligne et attirer un public cible.
-- **Prospection** : Recherche et identification efficaces de nouveaux prospects pour générer des opportunités de croissance et de collaboration.
+- 🔍 **Référencement naturel (SEO)** : Stratégies sur-mesure, contenu optimisé, backlinks, analyse concurrentielle.
+- 📣 **Marketing digital** : Création de campagnes (Google Ads, réseaux sociaux), tunnels de conversion.
+- 🧲 **Prospection & génération de leads** : Automatisation, outils NoCode (Make, Notion), CRM.
+- 🎯 **Gestion de projet & Branding** : Stratégie de marque, naming, storytelling.
 
-## 📱 Me contacter
+---
 
-- **LinkedIn** : [Xavier Louis](https://www.linkedin.com/in/louis-xavier)
-- **Discord** : sprinbox
+## 📫 Me contacter
 
-Merci de votre visite, n'hésitez pas à me contacter pour discuter de mes projets ou pour toute collaboration potentielle !
+- 💼 [LinkedIn - Xavier Louis](https://www.linkedin.com/in/louis-xavier)
+- 💬 Discord : `sprinbox`
+- ✉️ Email : [contact@webxplore.fr](mailto:contact@webxplore.fr)
+
+---
+
+## 🚀 En ce moment
+
+- 💡 Je travaille sur un outil d’analyse SEO automatisé pour un CMS.
+- 🤝 Ouvert à des collaborations ponctuelles ou brainstormings entre créateurs.
+
+---
+
+📬 *Merci pour votre visite ! N'hésitez pas à me contacter pour échanger sur un projet ou simplement discuter stratégie digitale.*
