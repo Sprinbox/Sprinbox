@@ -30,6 +30,11 @@ J’aide les entreprises à **gagner en visibilité en ligne** et à **attirer d
 
 ➡️ [Voir le site](https://www.webxplore.fr)
 
+### 💼 Bryx Agency
+En parallèle de WebXplore, je m'associe à avec des développeurs expérimentés pour proposer des prestations de **développement web sur mesure** (site vitrine, solutions Azuriom, intégration API, etc.).
+
+➡️ [Voir le site](https://www.bryx-agency.fr)
+
 ---
 
 ## 📌 Projets en vedette
@@ -37,6 +42,11 @@ J’aide les entreprises à **gagner en visibilité en ligne** et à **attirer d
 ### 🎮 Serveurliste  
 Une plateforme qui aide les joueurs à découvrir des serveurs de jeux (Minecraft, GTA RP, etc.) adaptés à leurs envies.  
 🔗 [serveurliste.com](https://www.serveurliste.com/)
+
+### 📊​ SEO Lite for Azuriom 
+Un plugin gratuit conçu pour aider les administrateurs de serveurs à améliorer le référencement de leur site Azuriom.
+Obtenez une analyse en temps réel de chaque page, avec des conseils SEO clairs et actionnables pour booster votre visibilité sur Google. 
+🔗 [Lien vers la page du Plugin](https://www.azuriom.com/)
 
 ### ⛏️ Valblock  
 Serveur Minecraft Skyblock inspiré de l’univers viking, avec un gameplay immersif et communautaire.  
