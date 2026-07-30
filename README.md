@@ -33,7 +33,6 @@ Annuaires, plugins, SaaS : j'aime les projets qui tournent tout seuls et qui ram
 | **[Bryx Agency](https://www.bryx-agency.fr)** 💼 | Développement web sur mesure avec des devs expérimentés : sites vitrines, solutions Azuriom, intégrations API. | 🟢 Actif |
 | **[Kamelio](https://kamelio.io)** 🦎 | Party game web multijoueur : tu peins ton caméléon pour le camoufler dans un décor, les autres doivent le retrouver. Jouable direct dans le navigateur, sans compte, FR/EN. | 🟢 En ligne |
 | **[SkillsLabs](https://skillslabs.fr)** 🤖 | Blog francophone sur l'IA et la productivité, rédigé et publié en quasi-autonomie par un pipeline maison (Claude API + WordPress REST API + Notion, orchestré depuis un serveur Mac Mini). | 🟢 En ligne |
-| **[Valblock](https://www.valblock.fr)** ⛏️ | Serveur Minecraft Skyblock à l'univers viking, gameplay immersif et communautaire. | 🔵 Side project |
 
 ---
 
