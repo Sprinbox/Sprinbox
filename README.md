@@ -79,15 +79,6 @@ Annuaires, plugins, SaaS : j'aime les projets qui tournent tout seuls et qui ram
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sprinbox&show_icons=true&hide_border=true&title_color=4F46E5&icon_color=06B6D4&theme=transparent" alt="Stats GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sprinbox&layout=compact&hide_border=true&title_color=4F46E5&theme=transparent" alt="Langages" />
-</p>
-
----
-
 ## 📫 On échange ?
 
 <p>
