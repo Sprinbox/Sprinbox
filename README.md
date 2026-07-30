@@ -28,9 +28,11 @@ Annuaires, plugins, SaaS : j'aime les projets qui tournent tout seuls et qui ram
 |---|---|---|
 | **[ServeurListe](https://www.serveurliste.com/)** 🎮 | Annuaire **multigaming** multilingue (FR/EN/DE/ES) : Minecraft, FiveM, Roblox, GTA RP… V2 sortie après ~1 an de refonte. | 🟢 En prod |
 | **SEO for Azuriom** 📊 | Plugin SEO pour le CMS **Azuriom** : métas, sitemap, robots.txt, OG, canonical + une offre Pro branchée sur l'API Search Console (suivi de mots-clés, alertes Discord, détection d'anomalies). | 🟡 En dev actif |
-| **[Lank.li](https://lank.li)** 🔗 | Raccourcisseur de liens avec QR codes, analytics temps réel et pages link-in-bio. | 🟢 Actif |
+| **[Lank.li](https://lank.li)** 🔗 | Raccourcisseur de liens avec QR codes, analytics temps réel et pages link-in-bio. | 🟡 En dev |
 | **[WebXplore](https://www.webxplore.fr)** 🧠 | Mon agence de référencement naturel et de marketing digital. Stratégies sur mesure pour gagner en visibilité et générer des leads qualifiés. | 🟢 Actif |
 | **[Bryx Agency](https://www.bryx-agency.fr)** 💼 | Développement web sur mesure avec des devs expérimentés : sites vitrines, solutions Azuriom, intégrations API. | 🟢 Actif |
+| **[Kamelio](https://kamelio.io)** 🦎 | Party game web multijoueur : tu peins ton caméléon pour le camoufler dans un décor, les autres doivent le retrouver. Jouable direct dans le navigateur, sans compte, FR/EN. | 🟢 En ligne |
+| **[SkillsLabs](https://skillslabs.fr)** 🤖 | Blog francophone sur l'IA et la productivité, rédigé et publié en quasi-autonomie par un pipeline maison (Claude API + WordPress REST API + Notion, orchestré depuis un serveur Mac Mini). | 🟢 En ligne |
 | **[Valblock](https://www.valblock.fr)** ⛏️ | Serveur Minecraft Skyblock à l'univers viking, gameplay immersif et communautaire. | 🔵 Side project |
 
 ---
@@ -69,6 +71,7 @@ Annuaires, plugins, SaaS : j'aime les projets qui tournent tout seuls et qui ram
 
 ## 📈 En ce moment
 
+- 🦎 Je fais grandir **[Kamelio](https://kamelio.io)** : nouvelles features de gameplay, multilingue, et surtout trouver mes joueurs
 - 🔍 Je pousse **SEO for Azuriom** vers une vraie page d'analyse Search Console pensée pour les gérants de serveurs
 - 🌍 J'ouvre **ServeurListe** aux niches **Roblox** et **FiveM**
 - 🤖 Je branche Claude sur mes outils (GSC, WordPress) via **MCP** pour automatiser mes analyses SEO
