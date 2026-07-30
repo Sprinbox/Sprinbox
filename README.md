@@ -11,12 +11,12 @@
 
 ---
 
-### 👋 Salut, moi c'est Xavier — *Sprinbox* sur le web
+### 👋 Salut, moi c'est Xavier - *Sprinbox* sur le web
 
 Je fais du **SEO et du marketing digital** le jour, et je construis des **produits web** le reste du temps.
 Annuaires, plugins, SaaS : j'aime les projets qui tournent tout seuls et qui ramènent du trafic.
 
-- 🏭 Alternant marketing digital chez **Numalliance** (industrie B2B, machines CNC) — SEO, SEA, GA4, Looker Studio
+- 🏭 Alternant marketing digital chez **Numalliance** (industrie B2B, machines CNC) - SEO, SEA, GA4, Looker Studio
 - 🎓 En cours de **BAC+5 Manager Commercial & Marketing** (CCI Campus Alsace)
 - 🧪 Je code en *vibe coding* avec Claude Code, et je bosse avec des devs qui savent vraiment le faire
 
