@@ -27,7 +27,7 @@ Annuaires, plugins, SaaS : j'aime les projets qui tournent tout seuls et qui ram
 | Projet | C'est quoi | Statut |
 |---|---|---|
 | **[ServeurListe](https://www.serveurliste.com/)** 🎮 | Annuaire **multigaming** multilingue (FR/EN/DE/ES) : Minecraft, FiveM, Roblox, GTA RP… V2 sortie après ~1 an de refonte. | 🟢 En prod |
-| **SEO for Azuriom** 📊 | Plugin SEO pour le CMS **Azuriom** : métas, sitemap, robots.txt, OG, canonical + une offre Pro branchée sur l'API Search Console (suivi de mots-clés, alertes Discord, détection d'anomalies). | 🟡 En dev actif |
+| **[SEO for Azuriom](https://market.azuriom.com/resources/226)** 📊 | Plugin SEO pour le CMS **Azuriom** : métas, sitemap, robots.txt, OG, canonical + une offre Pro branchée sur l'API Search Console (suivi de mots-clés, alertes Discord, détection d'anomalies). | 🟢 Actif |
 | **[Lank.li](https://lank.li)** 🔗 | Raccourcisseur de liens avec QR codes, analytics temps réel et pages link-in-bio. | 🟡 En dev |
 | **[WebXplore](https://www.webxplore.fr)** 🧠 | Mon agence de référencement naturel et de marketing digital. Stratégies sur mesure pour gagner en visibilité et générer des leads qualifiés. | 🟢 Actif |
 | **[Bryx Agency](https://www.bryx-agency.fr)** 💼 | Développement web sur mesure avec des devs expérimentés : sites vitrines, solutions Azuriom, intégrations API. | 🟢 Actif |
